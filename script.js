@@ -2,6 +2,7 @@
 // si tu promedio es menor a 8 se repetira el ciclo hasta que sea mayor
 
 // se piden los datos del alumno
+// objeto
 function alumno1 (nombre,edad,materia){
     this.nombre = nombre;
     this.edad = edad;
